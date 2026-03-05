@@ -55,6 +55,9 @@
         <mxCell id="e5zPeCFM44Igud1hahGe-1" value="多水源多灌溉模式灌溉水入渗实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#63aeee;strokeColor=#2b5797;fontColor=#ffffff;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="60" y="10" width="1060" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4KXG_u3VXsb9AWYj0G4A-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e5zPeCFM44Igud1hahGe-2" target="e5zPeCFM44Igud1hahGe-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e5zPeCFM44Igud1hahGe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=1;dashed=1;dashPattern=3 3;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="60" y="100" width="180" height="630" as="geometry" />
         </mxCell>
@@ -266,9 +269,6 @@
         </mxCell>
         <mxCell id="4KXG_u3VXsb9AWYj0G4A-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="400" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="4KXG_u3VXsb9AWYj0G4A-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4KXG_u3VXsb9AWYj0G4A-27" target="4KXG_u3VXsb9AWYj0G4A-27">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
