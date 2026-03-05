@@ -174,9 +174,10 @@
         <mxCell id="e5zPeCFM44Igud1hahGe-47" value="质量守恒定律" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9e6;strokeColor=#f9f2d6;fontColor=#000000;fontSize=12;align=center;verticalAlign=middle;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="930" y="390" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e5zPeCFM44Igud1hahGe-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e5zPeCFM44Igud1hahGe-48" target="e5zPeCFM44Igud1hahGe-49" edge="1">
+        <mxCell id="e5zPeCFM44Igud1hahGe-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="e5zPeCFM44Igud1hahGe-48" target="e5zPeCFM44Igud1hahGe-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1025" y="510" />
               <mxPoint x="1025" y="520" />
               <mxPoint x="910" y="520" />
             </Array>
