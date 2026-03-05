@@ -261,6 +261,9 @@
         <mxCell id="4KXG_u3VXsb9AWYj0G4A-13" value="HYDRUS盐&lt;br&gt;渍土水-盐耦合数学模型求&lt;br&gt;解" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f2d6;strokeColor=#e6d9a9;fontColor=#000000;fontSize=13;align=center;verticalAlign=middle;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="770" y="630" width="300" height="86.25" as="geometry" />
         </mxCell>
+        <mxCell id="4KXG_u3VXsb9AWYj0G4A-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="400" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
