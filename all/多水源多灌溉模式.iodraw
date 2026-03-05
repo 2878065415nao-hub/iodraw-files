@@ -16,11 +16,8 @@
         <mxCell id="e5zPeCFM44Igud1hahGe-75" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="300" y="240" width="400" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4KXG_u3VXsb9AWYj0G4A-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e5zPeCFM44Igud1hahGe-15" target="e5zPeCFM44Igud1hahGe-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e5zPeCFM44Igud1hahGe-15" value="水盐运移规律" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe5cc;strokeColor=#f9cb9c;fontColor=#000000;fontSize=14;align=center;verticalAlign=middle;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="510" y="250" width="150" height="40" as="geometry" />
+          <mxGeometry x="510" y="250" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="e5zPeCFM44Igud1hahGe-16" value="水分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe5cc;strokeColor=#f9cb9c;fontColor=#000000;fontSize=14;align=center;verticalAlign=middle;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="300" width="150" height="40" as="geometry" />
