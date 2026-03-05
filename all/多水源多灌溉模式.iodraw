@@ -186,7 +186,7 @@
           <mxGeometry x="1010" y="390" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="e5zPeCFM44Igud1hahGe-49" value="水-盐数学耦合模&lt;br&gt;型的建立" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f2d6;strokeColor=#e6d9a9;fontColor=#000000;fontSize=13;align=center;verticalAlign=middle;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="740" y="540" width="340" height="60" as="geometry" />
+          <mxGeometry x="770" y="540" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e5zPeCFM44Igud1hahGe-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
