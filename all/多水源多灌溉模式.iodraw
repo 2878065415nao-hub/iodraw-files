@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="cf-oIEI3ti9oV0HsIh-7">
-    <mxGraphModel dx="1628" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="452" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,9 +260,6 @@
         </mxCell>
         <mxCell id="4KXG_u3VXsb9AWYj0G4A-13" value="HYDRUS盐&lt;br&gt;渍土水-盐耦合数学模型求&lt;br&gt;解" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f2d6;strokeColor=#e6d9a9;fontColor=#000000;fontSize=13;align=center;verticalAlign=middle;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="770" y="630" width="300" height="86.25" as="geometry" />
-        </mxCell>
-        <mxCell id="4KXG_u3VXsb9AWYj0G4A-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
