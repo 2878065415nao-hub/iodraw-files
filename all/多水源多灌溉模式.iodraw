@@ -34,6 +34,9 @@
         <mxCell id="e5zPeCFM44Igud1hahGe-19" value="微观结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f2d6;strokeColor=#e6d9a9;fontColor=#000000;fontSize=14;align=center;verticalAlign=middle;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="370" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4KXG_u3VXsb9AWYj0G4A-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e5zPeCFM44Igud1hahGe-20" target="e5zPeCFM44Igud1hahGe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e5zPeCFM44Igud1hahGe-20" value="孔隙特征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f2d6;strokeColor=#e6d9a9;fontColor=#000000;fontSize=14;align=center;verticalAlign=middle;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="380" y="420" width="240" height="30" as="geometry" />
         </mxCell>
